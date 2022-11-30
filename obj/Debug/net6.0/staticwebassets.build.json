@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RAa53Pn7dleVdbJfWHX1a/YaqnOAfrwhsUAaCIfts5I=",
+  "Source": "dotnetcrypto",
+  "BasePath": "_content/dotnetcrypto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
